@@ -395,14 +395,7 @@ copies or substantial portions of the Software.
 ## Support & Contact
 
 ### Technical Support
-- **Email**: support@ramysmart.com
-- **Documentation**: [docs.ramysmart.com]
-- **Issues**: [GitHub Issues]
-
-### Community
-- **Discord**: [RamySmart Community]
-- **Forum**: [community.ramysmart.com]
-- **Twitter**: [@ramysmart]
+- **Email**: ramydiaman@gmail.com
 
 ## Acknowledgments
 
